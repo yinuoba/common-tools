@@ -8,6 +8,8 @@
 
 [Cmd在线Markdown编辑阅读器](https://www.zybuluo.com/mdeditor/ "Cmd在线Markdown编辑阅读器")
 
+[马克飞象 - 专为印象笔记打造的Markdown编辑器](http://maxiang.info/ "马克飞象 - 专为印象笔记打造的Markdown编辑器")
+
 [百度在线思维导图工具](http://naotu.baidu.com/ "百度在线思维导图工具")
 
 [Mind Mapping Software - Create Mind Maps online](http://www.mindmeister.com/ "Mind Mapping Software - Create Mind Maps online")
