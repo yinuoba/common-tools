@@ -20,4 +20,8 @@
 
 [性能分析工具阿里测](http://alibench.com/ "性能分析工具阿里测")
 
+[jsPerf — JavaScript performance playground](http://jsperf.com/ "jsPerf aims to provide an easy way to create and share test cases")
+
+
+
   [1]: http://www.jx9d.com/docs/%E5%89%8D%E7%AB%AF%E5%B8%B8%E7%94%A8%E5%B7%A5%E5%85%B7.png
