@@ -14,5 +14,7 @@
 
 [Mind Mapping Software - Create Mind Maps online](http://www.mindmeister.com/ "Mind Mapping Software - Create Mind Maps online")
 
+[性能分析工具gtmetrix](http://gtmetrix.com/ "性能分析工具gtmetrix")
+
 
   [1]: http://www.jx9d.com/docs/%E5%89%8D%E7%AB%AF%E5%B8%B8%E7%94%A8%E5%B7%A5%E5%85%B7.png
