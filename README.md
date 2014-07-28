@@ -24,4 +24,4 @@
 
 
 
-  [1]: http://www.jx9d.com/docs/%E5%89%8D%E7%AB%AF%E5%B8%B8%E7%94%A8%E5%B7%A5%E5%85%B7.png
+  [1]: https://raw.githubusercontent.com/yinuoba/common-tools/master/%E5%89%8D%E7%AB%AF%E5%B8%B8%E7%94%A8%E5%B7%A5%E5%85%B7.png
